@@ -1,0 +1,8 @@
+flake8
+matplotlib
+numpy
+pandas
+plotly
+plotly-express
+pytest
+python-dateutil
